@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/*
+not_as_useful/*
+report_parts/*
+reports/*
+data_cleaning/*
